@@ -11,7 +11,7 @@
  [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodhikasabe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bodhi-kasabe)  
 
-![Bodhivardhan's github stats](https://github-readme-stats.vercel.app/api?username=bodhivardhan&count_private=true)
+![Bodhivardhan's github stats](https://github-readme-stats.vercel.app/api?username=Bodhikasabe&count_private=true)
 
 <!---
 Bodhikasabe/Bodhikasabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
